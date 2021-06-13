@@ -1,6 +1,6 @@
 # Textbuster
 
-Fill any Text Field with the Message 0r Word you type Repeatedly.
+Repeatedly Fill any Text Field with the Message 0r Word you type.
 
 Any Online or Offline, if a Field Requires you to enter Text then use this to Fill it Automatically and Repeatedly.
 
