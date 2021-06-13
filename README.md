@@ -8,6 +8,12 @@ Means this can be used as Message Buster, Auto Messenger in all messaging platfo
 
 NOTE: Uploaded only the Executable jar File, for Source Code, Text me through Mail,Discord, LinkedIn or Insta
 
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> anjaanabishek#6186
+
 <h2> Get Started: </h2>
 
 !!!Below Method is for both Windows and Linux!!!
@@ -57,3 +63,8 @@ NOTE: Uploaded only the Executable jar File, for Source Code, Text me through Ma
 * See the Magic
 
 ![whatsapp](./screenshots/whatsapp.png)
+
+[mail]: mailto:anjaanabishek10@gmail.com
+[linkedin]: https://www.linkedin.com/in/abishek-k-11217b1b5/
+[instagram]: https://www.instagram.com/anjaan.abishek/
+[facebook]: https://www.facebook.com/anjaan.abishek.10/
