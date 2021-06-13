@@ -22,11 +22,19 @@ NOTE: Uploaded only the Executable jar File, for Source Code, Text me through Ma
 
 <h3> => java -jar textbuster.jar -h </h3>
 
+![help](./screenshots/help.png)
+
 <h3> => java -jar textbuster.jar -s example </h3>
+
+![single](./screenshots/single.png)
 
 <h3> => java -jar textbuster.jar -m this is an example </h3>
 
+![multi](./screenshots/multi.png)
+
 <h3> => java -jar textbuster.jar -l this is an example </h3>
+
+![line](./screenshots/line.png)
 
 <h2> How to Use: </h2>
 
@@ -47,3 +55,5 @@ NOTE: Uploaded only the Executable jar File, for Source Code, Text me through Ma
 * Click on 'Type a message' field
 
 * See the Magic
+
+![whatsapp](./screenshots/whatsapp.png)
